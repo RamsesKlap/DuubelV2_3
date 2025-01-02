@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Duubel.PrjPcb]
+   Generated File[Duubel_v3.TXT]
+   Generated File[Duubel_v3.LDP]
+   Generated File[Duubel_v3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:46:40 On 14/09/2024
