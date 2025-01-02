@@ -1,0 +1,8 @@
+../Drivers/VL53L1X/Src/VL53L1X.c:6:6:TOF_InitStruct	24	static
+../Drivers/VL53L1X/Src/VL53L1X.c:14:6:TOF_TurnOn	16	static
+../Drivers/VL53L1X/Src/VL53L1X.c:19:6:TOF_TurnOff	16	static
+../Drivers/VL53L1X/Src/VL53L1X.c:24:6:TOF_BootMultipleSensors	24	static
+../Drivers/VL53L1X/Src/VL53L1X.c:34:6:TOF_BootSensor	24	static
+../Drivers/VL53L1X/Src/VL53L1X.c:59:6:TOF_StartRanging	16	static
+../Drivers/VL53L1X/Src/VL53L1X.c:64:6:TOF_StopRanging	16	static
+../Drivers/VL53L1X/Src/VL53L1X.c:69:10:TOF_GetDistance	24	static
